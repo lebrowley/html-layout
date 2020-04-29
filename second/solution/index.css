@@ -3,7 +3,6 @@ body {
   padding: 25px;
 }
 
-
 .container-one {
   width: 100%;
   border: 5px solid black;
@@ -17,6 +16,7 @@ body {
   background-color: blueviolet;
   display: inline-block;
 }
+
 .square-two {
   height: 200px;
   width: 400px;
@@ -24,6 +24,7 @@ body {
   background-color: forestgreen;
   margin: 0 50px;
 }
+
 .circle-one {
   height: 200px;
   width: 200px;

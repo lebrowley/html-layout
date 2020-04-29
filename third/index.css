@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 100%;
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.box1-small {
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    margin: 10px;
+    background-color: rgb(0, 140, 255);
+}
+
+.text-content-box h1 {
+    height: 80px;
+    margin: 20px;
+    padding: 20px;
+    font-size: medium;
+}
+
+.box2-blue {
+    width: 100%;
+    height: 90px;
+    background-color: cornflowerblue;
+}
+
+.box3-teal {
+    width: 100%;
+    height: 90px;
+    background-color: teal;
+}
+
+.box4-green {
+    width: 100%;
+    height: 90px;
+    background-color: yellowgreen;
+}
+
+.box5-yellow {
+    width: 100%;
+    height: 90px;
+    background-color: yellow;
+}
